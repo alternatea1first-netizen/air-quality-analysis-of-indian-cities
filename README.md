@@ -19,17 +19,17 @@ The data consists of various pollutanats (such as PM2.5, PM10, NO2, NH3 etc) wit
 - Google Colab
 
 ## Key Findings
-- AQI levels increased from October to mid-November as winter approached
+- AQI levels increased from October to mid-November as winter approached.
 - Cities in the NCR region showed consistently higher pollution levels than other regions.
-- Clear regional clustering of high AQI values
+- Clear regional clustering of high AQI values.
 - Many cities came under poor-hazardous AQI categories.
 
 ## Limitations
-- Short time range of data
-- Missing AQI values for certain cities
-- Limited station coverage in certain regions
+- Short time range of data.
+- Missing AQI values for certain cities.
+- Limited station coverage in certain regions.
 
 ## Possible extensions:
-- More data across multiple days and years can be included to extend the lifespan of the data and improve the accuracy of the project
+- More data across multiple days and years can be included to extend the lifespan of the data and improve the accuracy of the project.
 - Machine  learning alghorithms could be deployed to predict AQI levels in the future.
-- Numerous environmental and meteorological data could be added (such as wind speed, temparature, precipitation)
+- Numerous environmental and meteorological data could be added (such as wind speed, temparature, precipitation).
